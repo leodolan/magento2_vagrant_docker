@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9a7ba748-8afb-449f-80a5-b9213a009006" name="mag.demo" url="http://mag.demo">
+        <fileTransfer host="mag.demo" port="22" privateKey="$PROJECT_DIR$/.vagrant/machines/magento/virtualbox/private_key" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="mag.demo" overwriteAll="false" createEmptyFolders="true" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;*.hprof;*.pyc;*.md" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="mag.demo">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/app/html" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/dev" />
+			<excludedPath local="true" path="$PROJECT_DIR$/generated" />
+			<excludedPath local="true" path="$PROJECT_DIR$/lib" />
+			<excludedPath local="true" path="$PROJECT_DIR$/phpserver" />
+			<excludedPath local="true" path="$PROJECT_DIR$/pub" />
+			<excludedPath local="true" path="$PROJECT_DIR$/setup" />
+			<excludedPath local="true" path="$PROJECT_DIR$/update" />
+			<excludedPath local="true" path="$PROJECT_DIR$/var" />
+			<excludedPath local="true" path="$PROJECT_DIR$/vendor" />
+			<excludedPath local="true" path="$PROJECT_DIR$/test" />
+			<excludedPath local="true" path="$PROJECT_DIR$/scripts" />
+			<excludedPath local="true" path="$PROJECT_DIR$/.vagrant" />
+		  </excludedPaths>		  
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

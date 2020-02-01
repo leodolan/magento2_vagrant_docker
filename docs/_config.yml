@@ -1,0 +1,9 @@
+theme: jekyll-theme-slate
+
+title: Introduction to Magento 2.2 & 2.3 using Vagrant & Docker
+
+description:  A basic framework and explanation of getting Magento 2.2/2.3 running locally and starting development using technologies like Vagrant, VirtualBox, and Docker.
+
+author: 
+  name: Leo Dolan
+
